@@ -6,11 +6,11 @@
     <title>Blog - Brain Tune TMS</title>
     <meta content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="robots" />
     <meta content="nositelinkssearchbox" name="google" />
-    <link href="blog.php" rel="canonical" />
+    <link href="https://braintunetms.com/blog" rel="canonical"/>
     <meta content="" name="description" />
     <script
-        type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","@id":"http://localhost/#","name":"","url":"http://localhost","logo":{"@type":"ImageObject","@id":"http://localhost/#logo","inLanguage":"en-US"},"description":"Brain Tune TMS","sameAs":["https://x.com/"]}</script>
-    <meta content="http://localhost" property="og:url" />
+        type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","@id":"index.php#","name":"","url":"index.php","logo":{"@type":"ImageObject","@id":"index.php#logo","inLanguage":"en-US"},"description":"Brain Tune TMS","sameAs":["https://x.com/"]}</script>
+    <meta content="https://braintunetms.com/blog" property="og:url"/>
     <meta content="Brain Tune TMS" property="og:site_name" />
     <meta content="en_US" property="og:locale" />
     <meta content="website" property="og:type" />
@@ -24,7 +24,7 @@
     <meta
         content="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc imperdiet rhoncus arcu non aliquet. Sed tempor mauris a purus porttitor, ... Read more"
         name="twitter:description" />
-    <meta content="http://localhost" name="twitter:url" />
+    <meta content="https://braintunetms.com/blog" name="twitter:url"/>
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect" />
     <link crossorigin="" href="https://fonts.googleapis.com" rel="preconnect" />
@@ -35,7 +35,7 @@
 
         /*# sourceURL=wp-img-auto-sizes-contain-inline-css */
     </style>
-    <link href="./wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css" id="hfe-widgets-style-css"
+    <link href="/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css" id="hfe-widgets-style-css"
         media="all" rel="stylesheet" />
     <style id="wp-emoji-styles-inline-css">
         img.wp-smiley,
@@ -53,7 +53,7 @@
 
         /*# sourceURL=wp-emoji-styles-inline-css */
     </style>
-    <link href="./wp-includes/css/dist/block-library/style.min.css" id="wp-block-library-css" media="all"
+    <link href="/wp-includes/css/dist/block-library/style.min.css" id="wp-block-library-css" media="all"
         rel="stylesheet" />
     <style id="classic-theme-styles-inline-css">
         /*! This file is auto-generated */
@@ -557,20 +557,20 @@
 
         /*# sourceURL=global-styles-inline-css */
     </style>
-    <link href="./wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min.css"
+    <link href="/wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min.css"
         id="kk-star-ratings-css" media="all" rel="stylesheet" />
-    <link href="./wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css" id="hfe-style-css"
+    <link href="/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css" id="hfe-style-css"
         media="all" rel="stylesheet" />
-    <link href="./wp-content/plugins/elementor/assets/css/frontend.min.css" id="elementor-frontend-css" media="all"
+    <link href="/wp-content/plugins/elementor/assets/css/frontend.min.css" id="elementor-frontend-css" media="all"
         rel="stylesheet" />
-    <link href="./wp-content/uploads/elementor/css/post-6.css" id="elementor-post-6-css" media="all" rel="stylesheet" />
-    <link href="./wp-content/uploads/elementor/css/post-12.css" id="elementor-post-12-css" media="all"
+    <link href="/wp-content/uploads/elementor/css/post-6.css" id="elementor-post-6-css" media="all" rel="stylesheet" />
+    <link href="/wp-content/uploads/elementor/css/post-12.css" id="elementor-post-12-css" media="all"
         rel="stylesheet" />
-    <link href="./wp-content/uploads/elementor/css/post-18.css" id="elementor-post-18-css" media="all"
+    <link href="/wp-content/uploads/elementor/css/post-18.css" id="elementor-post-18-css" media="all"
         rel="stylesheet" />
-    <link href="./wp-content/themes/generatepress/assets/css/components/widget-areas.min.css"
+    <link href="/wp-content/themes/generatepress/assets/css/components/widget-areas.min.css"
         id="generate-widget-areas-css" media="all" rel="stylesheet" />
-    <link href="./wp-content/themes/generatepress/assets/css/main.min.css" id="generate-style-css" media="all"
+    <link href="/wp-content/themes/generatepress/assets/css/main.min.css" id="generate-style-css" media="all"
         rel="stylesheet" />
     <style id="generate-style-inline-css">
         .resize-featured-image .post-image img {
@@ -1240,19 +1240,19 @@
 
         /*# sourceURL=generate-style-inline-css */
     </style>
-    <link href="./_external/fonts.googleapis.com/css_4ab5adf8.css" id="generate-google-fonts-css" media="all"
+    <link href="/_external/fonts.googleapis.com/css_4ab5adf8.css" id="generate-google-fonts-css" media="all"
         rel="stylesheet" />
-    <link href="./wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css"
+    <link href="/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css"
         id="hfe-elementor-icons-css" media="all" rel="stylesheet" />
-    <link href="./wp-content/plugins/elementor/assets/css/widget-icon-list.min.css" id="hfe-icons-list-css" media="all"
+    <link href="/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css" id="hfe-icons-list-css" media="all"
         rel="stylesheet" />
-    <link href="./wp-content/plugins/elementor/assets/css/widget-social-icons.min.css" id="hfe-social-icons-css"
+    <link href="/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css" id="hfe-social-icons-css"
         media="all" rel="stylesheet" />
-    <link href="./wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css"
+    <link href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css"
         id="hfe-social-share-icons-brands-css" media="all" rel="stylesheet" />
-    <link href="./wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css"
+    <link href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css"
         id="hfe-social-share-icons-fontawesome-css" media="all" rel="stylesheet" />
-    <link href="./wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css" id="hfe-nav-menu-icons-css"
+    <link href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css" id="hfe-nav-menu-icons-css"
         media="all" rel="stylesheet" />
     <style id="generateblocks-inline-css">
         :root {
@@ -1502,14 +1502,14 @@
 
         /*# sourceURL=generateblocks-inline-css */
     </style>
-    <link href="./wp-content/plugins/gp-premium/blog/functions/css/featured-images.min.css"
+    <link href="/wp-content/plugins/gp-premium/blog/functions/css/featured-images.min.css"
         id="generate-blog-images-css" media="all" rel="stylesheet" />
-    <link href="./_external/fonts.googleapis.com/css_65d37b7f.css" id="elementor-gf-roboto-css" media="all"
+    <link href="/_external/fonts.googleapis.com/css_65d37b7f.css" id="elementor-gf-roboto-css" media="all"
         rel="stylesheet" />
-    <link href="./_external/fonts.googleapis.com/css_b6c5de83.css" id="elementor-gf-robotoslab-css" media="all"
+    <link href="/_external/fonts.googleapis.com/css_b6c5de83.css" id="elementor-gf-robotoslab-css" media="all"
         rel="stylesheet" />
-    <script id="jquery-core-js" src="./wp-includes/js/jquery/jquery.min.js"></script>
-    <script id="jquery-migrate-js" src="./wp-includes/js/jquery/jquery-migrate.min.js"></script>
+    <script id="jquery-core-js" src="/wp-includes/js/jquery/jquery.min.js"></script>
+    <script id="jquery-migrate-js" src="/wp-includes/js/jquery/jquery-migrate.min.js"></script>
     <script id="jquery-js-after">
         !function ($) { "use strict"; $(document).ready(function () { $(this).scrollTop() > 100 && $(".hfe-scroll-to-top-wrap").removeClass("hfe-scroll-to-top-hide"), $(window).scroll(function () { $(this).scrollTop() < 100 ? $(".hfe-scroll-to-top-wrap").fadeOut(300) : $(".hfe-scroll-to-top-wrap").fadeIn(300) }), $(".hfe-scroll-to-top-wrap").on("click", function () { $("html, body").animate({ scrollTop: 0 }, 300); return !1 }) }) }(jQuery);
         !function ($) { 'use strict'; $(document).ready(function () { var bar = $('.hfe-reading-progress-bar'); if (!bar.length) return; $(window).on('scroll', function () { var s = $(window).scrollTop(), d = $(document).height() - $(window).height(), p = d ? s / d * 100 : 0; bar.css('width', p + '%') }); }); }(jQuery);
@@ -1520,7 +1520,7 @@
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com" rel="preconnect" />
     <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect" />
-    <link href="./_external/fonts.googleapis.com/css2_81a49e72.css" rel="stylesheet" />
+    <link href="/_external/fonts.googleapis.com/css2_81a49e72.css" rel="stylesheet" />
     <meta content="80rLMhIjWQCmNs0wP3Jr0dkEEK9i6z4bBDMA_5Iua30" name="google-site-verification" />
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
@@ -1564,18 +1564,18 @@
         }
     </script>
     <!-- end Simple Custom CSS and JS -->
-    <script src="./wp-content/uploads/custom-css-js/10.js"></script>
-    <link href="./wp-content/uploads/custom-css-js/9.css" id="9-css" media="all" rel="stylesheet" />
+    <script src="/wp-content/uploads/custom-css-js/10.js"></script>
+    <link href="/wp-content/uploads/custom-css-js/9.css" id="9-css" media="all" rel="stylesheet" />
     <script
-        type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","name":"Brain Tune TMS","description":"Achieve good mental health and peak intellectual wellness with Brain Tune TMS in Rancho Mirage. Our mental health wellness solutions bridge emotional physical mental balance for true wellbeing.","url":"http://localhost","inLanguage":"en_US","@id":"http://localhost#website"},{"@type":"WebPage","name":"How Much Does Exomind Treatment Cost?","url":"http://localhost/how-much-does-exomind-treatment-cost/","description":"Mental health treatments have come a long way in recent years, giving people more options beyond medication and traditional therapy. ... <a title=\"How Much...","inLanguage":"en_US","@id":"http://localhost/how-much-does-exomind-treatment-cost/#webpage"},{"@type":"BreadcrumbList","@id":"http://localhost/blog/#breadcrumblist","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"http://localhost","name":"Home"}},{"@type":"ListItem","position":3,"item":{"@id":"http://localhost/blog/","name":"Blog"}}]},{"@type":"SearchAction","@id":"http://localhost#searchaction","target":"http://localhost/?s={search_term_string}","query-input":"required name=search_term_string"}]}</script>
+        type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","name":"Brain Tune TMS","description":"Achieve good mental health and peak intellectual wellness with Brain Tune TMS in Rancho Mirage. Our mental health wellness solutions bridge emotional physical mental balance for true wellbeing.","url":"index.php","inLanguage":"en_US","@id":"index.php#website"},{"@type":"WebPage","name":"How Much Does Exomind Treatment Cost?","url":"how-much-does-exomind-treatment-cost.php","description":"Mental health treatments have come a long way in recent years, giving people more options beyond medication and traditional therapy. ... <a title=\"How Much...","inLanguage":"en_US","@id":"how-much-does-exomind-treatment-cost.php#webpage"},{"@type":"BreadcrumbList","@id":"blog.php#breadcrumblist","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"index.php","name":"Home"}},{"@type":"ListItem","position":3,"item":{"@id":"blog.php","name":"Blog"}}]},{"@type":"SearchAction","@id":"index.php#searchaction","target":"index.php?s={search_term_string}","query-input":"required name=search_term_string"}]}</script>
     <meta
         content="Elementor 3.35.5; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap"
         name="generator" />
     <!-- Schema & Structured Data For WP v1.58 - -->
     <script class="saswp-schema-markup-output" type="application/ld+json">
-[{"@context":"https:\/\/schema.org\/","@type":"psychiatric","@id":"http:\/\/localhost\/how-much-does-exomind-treatment-cost\/#psychiatric","url":"http:\/\/localhost\/how-much-does-exomind-treatment-cost\/","name":"Brain Tune TMS","aggregateRating":{"@type":"AggregateRating","bestRating":"5","ratingCount":1,"ratingValue":5},"review":[],"image":[{"@type":"ImageObject","@id":"http:\/\/localhost\/how-much-does-exomind-treatment-cost\/#primaryimage","url":"http:\/\/localhost\/wp-content\/uploads\/2026\/08\/A-patient-receiving-an-Exomind-treatment-at-Dr-Preema-London-Clinic-Mayfair-1200x1126.webp","width":"1200","height":"1126","caption":"How much does Exomind Treatment cost\u200b"},{"@type":"ImageObject","url":"http:\/\/localhost\/wp-content\/uploads\/2026\/08\/A-patient-receiving-an-Exomind-treatment-at-Dr-Preema-London-Clinic-Mayfair-1200x900.webp","width":"1200","height":"900","caption":"How much does Exomind Treatment cost\u200b"},{"@type":"ImageObject","url":"http:\/\/localhost\/wp-content\/uploads\/2026\/08\/A-patient-receiving-an-Exomind-treatment-at-Dr-Preema-London-Clinic-Mayfair-1200x675.webp","width":"1200","height":"675","caption":"How much does Exomind Treatment cost\u200b"},{"@type":"ImageObject","url":"http:\/\/localhost\/wp-content\/uploads\/2026\/08\/A-patient-receiving-an-Exomind-treatment-at-Dr-Preema-London-Clinic-Mayfair-1000x1000.webp","width":"1000","height":"1000","caption":"How much does Exomind Treatment cost\u200b"}]},
+[{"@context":"https:\/\/schema.org\/","@type":"psychiatric","@id":"https:\/\/braintunetms.com\/how-much-does-exomind-treatment-cost\/#psychiatric","url":"https:\/\/braintunetms.com\/how-much-does-exomind-treatment-cost\/","name":"Brain Tune TMS","aggregateRating":{"@type":"AggregateRating","bestRating":"5","ratingCount":1,"ratingValue":5},"review":[],"image":[{"@type":"ImageObject","@id":"https:\/\/braintunetms.com\/how-much-does-exomind-treatment-cost\/#primaryimage","url":"/wp-content/uploads\/2026\/08\/A-patient-receiving-an-Exomind-treatment-at-Dr-Preema-London-Clinic-Mayfair-1200x1126.webp","width":"1200","height":"1126","caption":"How much does Exomind Treatment cost\u200b"},{"@type":"ImageObject","url":"/wp-content/uploads\/2026\/08\/A-patient-receiving-an-Exomind-treatment-at-Dr-Preema-London-Clinic-Mayfair-1200x900.webp","width":"1200","height":"900","caption":"How much does Exomind Treatment cost\u200b"},{"@type":"ImageObject","url":"/wp-content/uploads\/2026\/08\/A-patient-receiving-an-Exomind-treatment-at-Dr-Preema-London-Clinic-Mayfair-1200x675.webp","width":"1200","height":"675","caption":"How much does Exomind Treatment cost\u200b"},{"@type":"ImageObject","url":"/wp-content/uploads\/2026\/08\/A-patient-receiving-an-Exomind-treatment-at-Dr-Preema-London-Clinic-Mayfair-1000x1000.webp","width":"1000","height":"1000","caption":"How much does Exomind Treatment cost\u200b"}]},
 
-{"@context":"https:\/\/schema.org\/","@type":"Organization","@id":"http:\/\/localhost#Organization","name":"Brain Tune TMS","url":"http:\/\/localhost","sameAs":[]}]
+{"@context":"https:\/\/schema.org\/","@type":"Organization","@id":"https:\/\/braintunetms.com#Organization","name":"Brain Tune TMS","url":"https:\/\/braintunetms.com","sameAs":[]}]
 </script>
     <style>
         .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
@@ -1599,13 +1599,13 @@
             }
         }
     </style>
-    <link href="./wp-content/uploads/2026/02/cropped-braintunetmslogo-removebg-preview-32x32.png" rel="icon"
+    <link href="/wp-content/uploads/2026/02/cropped-braintunetmslogo-removebg-preview-32x32.png" rel="icon"
         sizes="32x32" />
-    <link href="./wp-content/uploads/2026/02/cropped-braintunetmslogo-removebg-preview-192x192.png" rel="icon"
+    <link href="/wp-content/uploads/2026/02/cropped-braintunetmslogo-removebg-preview-192x192.png" rel="icon"
         sizes="192x192" />
-    <link href="./wp-content/uploads/2026/02/cropped-braintunetmslogo-removebg-preview-180x180.png"
+    <link href="/wp-content/uploads/2026/02/cropped-braintunetmslogo-removebg-preview-180x180.png"
         rel="apple-touch-icon" />
-    <meta content="http://localhost/wp-content/uploads/2026/02/cropped-braintunetmslogo-removebg-preview-270x270.png"
+    <meta content="/wp-content/uploads/2026/02/cropped-braintunetmslogo-removebg-preview-270x270.png"
         name="msapplication-TileImage" />
     <style id="wp-custom-css">
         /* GeneratePress Site CSS */
@@ -2531,7 +2531,7 @@
             }
         }
     </style>
-    <script defer="" src="./wp-includes/js/wp-emoji-release.min.js"></script>
+    <script defer="" src="/wp-includes/js/wp-emoji-release.min.js"></script>
 </head>
 
 <body
@@ -2557,9 +2557,9 @@
                         <!-- Post 1 -->
                         <article
                             class="bg-white rounded-2xl shadow-soft hover:shadow-lg transition-all duration-300 overflow-hidden flex flex-col group border border-gray-100">
-                            <a href="how-much-does-exomind-treatment-cost.php"
+                            <a href="/how-much-does-exomind-treatment-cost"
                                 class="relative h-56 overflow-hidden block">
-                                <img src="./wp-content/uploads/2026/08/A-patient-receiving-an-Exomind-treatment-at-Dr-Preema-London-Clinic-Mayfair-768x720.webp"
+                                <img src="/wp-content/uploads/2026/08/A-patient-receiving-an-Exomind-treatment-at-Dr-Preema-London-Clinic-Mayfair-768x720.webp"
                                     class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                                     alt="How much does Exomind Treatment cost​" />
                                 <div
@@ -2571,13 +2571,13 @@
                                     6, 2026</div>
                                 <h2 class="text-xl font-heading font-bold text-gray-900 mb-3 group-hover:text-brand-600 transition-colors line-clamp-2"
                                     style="margin-top: 0 !important; font-size: 20px !important;">
-                                    <a href="how-much-does-exomind-treatment-cost.php">How Much Does Exomind Treatment
+                                    <a href="/how-much-does-exomind-treatment-cost">How Much Does Exomind Treatment
                                         Cost?</a>
                                 </h2>
                                 <p class="text-gray-600 text-sm mb-6 line-clamp-3 flex-grow leading-relaxed">Mental
                                     health treatments have come a long way in recent years, giving people more options
                                     beyond medication and traditional therapy....</p>
-                                <a href="how-much-does-exomind-treatment-cost.php"
+                                <a href="/how-much-does-exomind-treatment-cost"
                                     class="inline-flex items-center text-brand-600 font-semibold hover:text-brand-700 transition-colors mt-auto group/link">
                                     Read Article
                                     <svg class="w-4 h-4 ml-2 transform group-hover/link:translate-x-1 transition-transform"
@@ -2592,9 +2592,9 @@
                         <!-- Post 2 -->
                         <article
                             class="bg-white rounded-2xl shadow-soft hover:shadow-lg transition-all duration-300 overflow-hidden flex flex-col group border border-gray-100">
-                            <a href="how-exomind-tms-supports-long-term-brain-health.php"
+                            <a href="/how-exomind-tms-supports-long-term-brain-health"
                                 class="relative h-56 overflow-hidden block">
-                                <img src="./wp-content/uploads/2026/07/ChatGPT-Image-Jul-24-2026-02_07_08-PM-768x439.png"
+                                <img src="/wp-content/uploads/2026/07/ChatGPT-Image-Jul-24-2026-02_07_08-PM-768x439.png"
                                     class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                                     alt="Exomind TMS" />
                                 <div
@@ -2606,13 +2606,13 @@
                                     2026</div>
                                 <h2 class="text-xl font-heading font-bold text-gray-900 mb-3 group-hover:text-brand-600 transition-colors line-clamp-2"
                                     style="margin-top: 0 !important; font-size: 20px !important;">
-                                    <a href="how-exomind-tms-supports-long-term-brain-health.php">How Exomind TMS
+                                    <a href="/how-exomind-tms-supports-long-term-brain-health">How Exomind TMS
                                         Supports Long-Term Brain Health</a>
                                 </h2>
                                 <p class="text-gray-600 text-sm mb-6 line-clamp-3 flex-grow leading-relaxed">Maintaining
                                     good brain health is just as important as taking care of your heart or physical
                                     fitness. As we age,...</p>
-                                <a href="how-exomind-tms-supports-long-term-brain-health.php"
+                                <a href="/how-exomind-tms-supports-long-term-brain-health"
                                     class="inline-flex items-center text-brand-600 font-semibold hover:text-brand-700 transition-colors mt-auto group/link">
                                     Read Article
                                     <svg class="w-4 h-4 ml-2 transform group-hover/link:translate-x-1 transition-transform"
@@ -2627,8 +2627,8 @@
                         <!-- Post 3 -->
                         <article
                             class="bg-white rounded-2xl shadow-soft hover:shadow-lg transition-all duration-300 overflow-hidden flex flex-col group border border-gray-100">
-                            <a href="exomind-vs-traditional-tms.php" class="relative h-56 overflow-hidden block">
-                                <img src="./wp-content/uploads/2026/02/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom-768x439.png"
+                            <a href="/exomind-vs-traditional-tms" class="relative h-56 overflow-hidden block">
+                                <img src="/wp-content/uploads/2026/02/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom-768x439.png"
                                     class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                                     alt="tms for anxiety" />
                                 <div
@@ -2640,13 +2640,13 @@
                                     2026</div>
                                 <h2 class="text-xl font-heading font-bold text-gray-900 mb-3 group-hover:text-brand-600 transition-colors line-clamp-2"
                                     style="margin-top: 0 !important; font-size: 20px !important;">
-                                    <a href="exomind-vs-traditional-tms.php">Exomind vs Traditional TMS: What’s the
+                                    <a href="/exomind-vs-traditional-tms">Exomind vs Traditional TMS: What’s the
                                         Difference?</a>
                                 </h2>
                                 <p class="text-gray-600 text-sm mb-6 line-clamp-3 flex-grow leading-relaxed">As
                                     awareness of brain health and mental wellness continues to grow, innovative
                                     treatments like Exomind and traditional Transcranial Magnetic Stimulation...</p>
-                                <a href="exomind-vs-traditional-tms.php"
+                                <a href="/exomind-vs-traditional-tms"
                                     class="inline-flex items-center text-brand-600 font-semibold hover:text-brand-700 transition-colors mt-auto group/link">
                                     Read Article
                                     <svg class="w-4 h-4 ml-2 transform group-hover/link:translate-x-1 transition-transform"
@@ -2661,8 +2661,8 @@
                         <!-- Post 4 -->
                         <article
                             class="bg-white rounded-2xl shadow-soft hover:shadow-lg transition-all duration-300 overflow-hidden flex flex-col group border border-gray-100">
-                            <a href="exomind-tms-a-drug-free-approach.php" class="relative h-56 overflow-hidden block">
-                                <img src="./wp-content/uploads/2026/04/49601506-b5d8-4c1e-a21b-65b86cf60184-768x536.jpg"
+                            <a href="/exomind-tms-a-drug-free-approach" class="relative h-56 overflow-hidden block">
+                                <img src="/wp-content/uploads/2026/04/49601506-b5d8-4c1e-a21b-65b86cf60184-768x536.jpg"
                                     class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                                     alt="how long is tms treatment" />
                                 <div
@@ -2674,13 +2674,13 @@
                                     2026</div>
                                 <h2 class="text-xl font-heading font-bold text-gray-900 mb-3 group-hover:text-brand-600 transition-colors line-clamp-2"
                                     style="margin-top: 0 !important; font-size: 20px !important;">
-                                    <a href="exomind-tms-a-drug-free-approach.php">Exomind TMS: A Drug-Free Approach to
+                                    <a href="/exomind-tms-a-drug-free-approach">Exomind TMS: A Drug-Free Approach to
                                         Mental Well-Being</a>
                                 </h2>
                                 <p class="text-gray-600 text-sm mb-6 line-clamp-3 flex-grow leading-relaxed">Mental
                                     wellness is becoming an increasingly important part of overall health. While
                                     physical fitness, nutrition, and preventive healthcare have long...</p>
-                                <a href="exomind-tms-a-drug-free-approach.php"
+                                <a href="/exomind-tms-a-drug-free-approach"
                                     class="inline-flex items-center text-brand-600 font-semibold hover:text-brand-700 transition-colors mt-auto group/link">
                                     Read Article
                                     <svg class="w-4 h-4 ml-2 transform group-hover/link:translate-x-1 transition-transform"
@@ -2695,9 +2695,9 @@
                         <!-- Post 5 -->
                         <article
                             class="bg-white rounded-2xl shadow-soft hover:shadow-lg transition-all duration-300 overflow-hidden flex flex-col group border border-gray-100">
-                            <a href="the-connection-between-brain-wellness-and-emotional-resilience.php"
+                            <a href="/the-connection-between-brain-wellness-and-emotional-resilience"
                                 class="relative h-56 overflow-hidden block">
-                                <img src="./wp-content/uploads/2026/05/exomind-768x512.png"
+                                <img src="/wp-content/uploads/2026/05/exomind-768x512.png"
                                     class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                                     alt="" />
                                 <div
@@ -2709,13 +2709,13 @@
                                     15, 2026</div>
                                 <h2 class="text-xl font-heading font-bold text-gray-900 mb-3 group-hover:text-brand-600 transition-colors line-clamp-2"
                                     style="margin-top: 0 !important; font-size: 20px !important;">
-                                    <a href="the-connection-between-brain-wellness-and-emotional-resilience.php">The
+                                    <a href="/the-connection-between-brain-wellness-and-emotional-resilience">The
                                         Connection Between Brain Wellness and Emotional Resilience</a>
                                 </h2>
                                 <p class="text-gray-600 text-sm mb-6 line-clamp-3 flex-grow leading-relaxed">Life is
                                     filled with challenges, unexpected changes, and daily stressors. While we cannot
                                     always control what happens around us, we...</p>
-                                <a href="the-connection-between-brain-wellness-and-emotional-resilience.php"
+                                <a href="/the-connection-between-brain-wellness-and-emotional-resilience"
                                     class="inline-flex items-center text-brand-600 font-semibold hover:text-brand-700 transition-colors mt-auto group/link">
                                     Read Article
                                     <svg class="w-4 h-4 ml-2 transform group-hover/link:translate-x-1 transition-transform"
@@ -2730,8 +2730,8 @@
                         <!-- Post 6 -->
                         <article
                             class="bg-white rounded-2xl shadow-soft hover:shadow-lg transition-all duration-300 overflow-hidden flex flex-col group border border-gray-100">
-                            <a href="brain-fog-and-mental-fatigue.php" class="relative h-56 overflow-hidden block">
-                                <img src="./wp-content/uploads/2026/03/Gemini_Generated_Image_w8vkqbw8vkqbw8vk-768x569.png"
+                            <a href="/brain-fog-and-mental-fatigue" class="relative h-56 overflow-hidden block">
+                                <img src="/wp-content/uploads/2026/03/Gemini_Generated_Image_w8vkqbw8vkqbw8vk-768x569.png"
                                     class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                                     alt="is tms therapy covered by insurance" />
                                 <div
@@ -2743,13 +2743,13 @@
                                     12, 2026</div>
                                 <h2 class="text-xl font-heading font-bold text-gray-900 mb-3 group-hover:text-brand-600 transition-colors line-clamp-2"
                                     style="margin-top: 0 !important; font-size: 20px !important;">
-                                    <a href="brain-fog-and-mental-fatigue.php">Brain Fog and Mental Fatigue: Can Exomind
+                                    <a href="/brain-fog-and-mental-fatigue">Brain Fog and Mental Fatigue: Can Exomind
                                         Help?</a>
                                 </h2>
                                 <p class="text-gray-600 text-sm mb-6 line-clamp-3 flex-grow leading-relaxed">Have you
                                     ever walked into a room and forgotten why you were there? Found yourself rereading
                                     the same email multiple...</p>
-                                <a href="brain-fog-and-mental-fatigue.php"
+                                <a href="/brain-fog-and-mental-fatigue"
                                     class="inline-flex items-center text-brand-600 font-semibold hover:text-brand-700 transition-colors mt-auto group/link">
                                     Read Article
                                     <svg class="w-4 h-4 ml-2 transform group-hover/link:translate-x-1 transition-transform"

@@ -6,13 +6,13 @@
     <title>Exomind vs Traditional TMS: What’s the Difference? - Brain Tune TMS</title>
     <meta content="index, max-snippet:-1, max-image-preview:large, max-video-preview:-1, follow" name="robots" />
     <meta content="nositelinkssearchbox" name="google" />
-    <link href="exomind-vs-traditional-tms.php" rel="canonical" />
+    <link href="https://braintunetms.com/exomind-vs-traditional-tms" rel="canonical"/>
     <meta
         content="As awareness of brain health and mental wellness continues to grow, innovative treatments like Exomind and traditional Transcranial Magnetic Stimulation ... Read more"
         name="description" />
     <script
-        type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","@id":"http://localhost/#","name":"","url":"http://localhost","logo":{"@type":"ImageObject","@id":"http://localhost/#logo","inLanguage":"en-US"},"description":"Brain Tune TMS","sameAs":["https://x.com/"]}</script>
-    <meta content="http://localhost/exomind-vs-traditional-tms/" property="og:url" />
+        type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","@id":"index.php#","name":"","url":"index.php","logo":{"@type":"ImageObject","@id":"index.php#logo","inLanguage":"en-US"},"description":"Brain Tune TMS","sameAs":["https://x.com/"]}</script>
+    <meta content="https://braintunetms.com/exomind-vs-traditional-tms" property="og:url"/>
     <meta content="Brain Tune TMS" property="og:site_name" />
     <meta content="en_US" property="og:locale" />
     <meta content="article" property="og:type" />
@@ -20,9 +20,9 @@
     <meta
         content="As awareness of brain health and mental wellness continues to grow, innovative treatments like Exomind and traditional Transcranial Magnetic Stimulation ... Read more "
         property="og:description" />
-    <meta content="http://localhost/wp-content/uploads/2026/02/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom.png"
+    <meta content="/wp-content/uploads/2026/02/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom.png"
         property="og:image" />
-    <meta content="http://localhost/wp-content/uploads/2026/02/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom.png"
+    <meta content="/wp-content/uploads/2026/02/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom.png"
         property="og:secure_url" />
     <meta content="731" property="og:image:height" />
     <meta content="1280" property="og:image:width" />
@@ -32,8 +32,8 @@
     <meta
         content="As awareness of brain health and mental wellness continues to grow, innovative treatments like Exomind and traditional Transcranial Magnetic Stimulation ... Read more "
         name="twitter:description" />
-    <meta content="http://localhost/exomind-vs-traditional-tms/" name="twitter:url" />
-    <meta content="http://localhost/wp-content/uploads/2026/02/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom.png"
+    <meta content="https://braintunetms.com/exomind-vs-traditional-tms" name="twitter:url"/>
+    <meta content="/wp-content/uploads/2026/02/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom.png"
         name="twitter:image" />
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect" />
@@ -45,7 +45,7 @@
 
         /*# sourceURL=wp-img-auto-sizes-contain-inline-css */
     </style>
-    <link href="./wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css" id="hfe-widgets-style-css"
+    <link href="/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css" id="hfe-widgets-style-css"
         media="all" rel="stylesheet" />
     <style id="wp-emoji-styles-inline-css">
         img.wp-smiley,
@@ -63,7 +63,7 @@
 
         /*# sourceURL=wp-emoji-styles-inline-css */
     </style>
-    <link href="./wp-includes/css/dist/block-library/style.min.css" id="wp-block-library-css" media="all"
+    <link href="/wp-includes/css/dist/block-library/style.min.css" id="wp-block-library-css" media="all"
         rel="stylesheet" />
     <style id="classic-theme-styles-inline-css">
         /*! This file is auto-generated */
@@ -567,21 +567,21 @@
 
         /*# sourceURL=global-styles-inline-css */
     </style>
-    <link href="./wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min.css"
+    <link href="/wp-content/plugins/kk-star-ratings/src/core/public/css/kk-star-ratings.min.css"
         id="kk-star-ratings-css" media="all" rel="stylesheet" />
-    <link href="./wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css" id="hfe-style-css"
+    <link href="/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css" id="hfe-style-css"
         media="all" rel="stylesheet" />
-    <link href="./wp-content/plugins/elementor/assets/css/frontend.min.css" id="elementor-frontend-css" media="all"
+    <link href="/wp-content/plugins/elementor/assets/css/frontend.min.css" id="elementor-frontend-css" media="all"
         rel="stylesheet" />
-    <link href="./wp-content/uploads/elementor/css/post-6.css" id="elementor-post-6-css" media="all" rel="stylesheet" />
-    <link href="./wp-content/uploads/elementor/css/post-12.css" id="elementor-post-12-css" media="all"
+    <link href="/wp-content/uploads/elementor/css/post-6.css" id="elementor-post-6-css" media="all" rel="stylesheet" />
+    <link href="/wp-content/uploads/elementor/css/post-12.css" id="elementor-post-12-css" media="all"
         rel="stylesheet" />
-    <link href="./wp-content/uploads/elementor/css/post-18.css" id="elementor-post-18-css" media="all"
+    <link href="/wp-content/uploads/elementor/css/post-18.css" id="elementor-post-18-css" media="all"
         rel="stylesheet" />
 
-    <link href="./wp-content/themes/generatepress/assets/css/components/widget-areas.min.css"
+    <link href="/wp-content/themes/generatepress/assets/css/components/widget-areas.min.css"
         id="generate-widget-areas-css" media="all" rel="stylesheet" />
-    <link href="./wp-content/themes/generatepress/assets/css/main.min.css" id="generate-style-css" media="all"
+    <link href="/wp-content/themes/generatepress/assets/css/main.min.css" id="generate-style-css" media="all"
         rel="stylesheet" />
     <style id="generate-style-inline-css">
         body {
@@ -1247,19 +1247,19 @@
 
         /*# sourceURL=generate-style-inline-css */
     </style>
-    <link href="./_external/fonts.googleapis.com/css_4ab5adf8.css" id="generate-google-fonts-css" media="all"
+    <link href="/_external/fonts.googleapis.com/css_4ab5adf8.css" id="generate-google-fonts-css" media="all"
         rel="stylesheet" />
-    <link href="./wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css"
+    <link href="/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css"
         id="hfe-elementor-icons-css" media="all" rel="stylesheet" />
-    <link href="./wp-content/plugins/elementor/assets/css/widget-icon-list.min.css" id="hfe-icons-list-css" media="all"
+    <link href="/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css" id="hfe-icons-list-css" media="all"
         rel="stylesheet" />
-    <link href="./wp-content/plugins/elementor/assets/css/widget-social-icons.min.css" id="hfe-social-icons-css"
+    <link href="/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css" id="hfe-social-icons-css"
         media="all" rel="stylesheet" />
-    <link href="./wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css"
+    <link href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css"
         id="hfe-social-share-icons-brands-css" media="all" rel="stylesheet" />
-    <link href="./wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css"
+    <link href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css"
         id="hfe-social-share-icons-fontawesome-css" media="all" rel="stylesheet" />
-    <link href="./wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css" id="hfe-nav-menu-icons-css"
+    <link href="/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css" id="hfe-nav-menu-icons-css"
         media="all" rel="stylesheet" />
     <style id="generateblocks-inline-css">
         :root {
@@ -1434,26 +1434,25 @@
 
         /*# sourceURL=generateblocks-inline-css */
     </style>
-    <link href="./wp-content/plugins/gp-premium/blog/functions/css/featured-images.min.css"
+    <link href="/wp-content/plugins/gp-premium/blog/functions/css/featured-images.min.css"
         id="generate-blog-images-css" media="all" rel="stylesheet" />
-    <link href="./_external/fonts.googleapis.com/css_65d37b7f.css" id="elementor-gf-roboto-css" media="all"
+    <link href="/_external/fonts.googleapis.com/css_65d37b7f.css" id="elementor-gf-roboto-css" media="all"
         rel="stylesheet" />
-    <link href="./_external/fonts.googleapis.com/css_b6c5de83.css" id="elementor-gf-robotoslab-css" media="all"
+    <link href="/_external/fonts.googleapis.com/css_b6c5de83.css" id="elementor-gf-robotoslab-css" media="all"
         rel="stylesheet" />
-    <script id="jquery-core-js" src="./wp-includes/js/jquery/jquery.min.js"></script>
-    <script id="jquery-migrate-js" src="./wp-includes/js/jquery/jquery-migrate.min.js"></script>
+    <script id="jquery-core-js" src="/wp-includes/js/jquery/jquery.min.js"></script>
+    <script id="jquery-migrate-js" src="/wp-includes/js/jquery/jquery-migrate.min.js"></script>
     <script id="jquery-js-after">
         !function ($) { "use strict"; $(document).ready(function () { $(this).scrollTop() > 100 && $(".hfe-scroll-to-top-wrap").removeClass("hfe-scroll-to-top-hide"), $(window).scroll(function () { $(this).scrollTop() < 100 ? $(".hfe-scroll-to-top-wrap").fadeOut(300) : $(".hfe-scroll-to-top-wrap").fadeIn(300) }), $(".hfe-scroll-to-top-wrap").on("click", function () { $("html, body").animate({ scrollTop: 0 }, 300); return !1 }) }) }(jQuery);
         !function ($) { 'use strict'; $(document).ready(function () { var bar = $('.hfe-reading-progress-bar'); if (!bar.length) return; $(window).on('scroll', function () { var s = $(window).scrollTop(), d = $(document).height() - $(window).height(), p = d ? s / d * 100 : 0; bar.css('width', p + '%') }); }); }(jQuery);
         //# sourceURL=jquery-js-after
     </script>
     <meta content="WordPress 7.0.2" name="generator" />
-    <link href="index.php?p=447" rel="shortlink" />
     <!-- start Simple Custom CSS and JS -->
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com" rel="preconnect" />
     <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect" />
-    <link href="./_external/fonts.googleapis.com/css2_81a49e72.css" rel="stylesheet" />
+    <link href="/_external/fonts.googleapis.com/css2_81a49e72.css" rel="stylesheet" />
     <meta content="80rLMhIjWQCmNs0wP3Jr0dkEEK9i6z4bBDMA_5Iua30" name="google-site-verification" />
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
@@ -1497,8 +1496,8 @@
         }
     </script>
     <!-- end Simple Custom CSS and JS -->
-    <script src="./wp-content/uploads/custom-css-js/10.js"></script>
-    <link href="./wp-content/uploads/custom-css-js/9.css" id="9-css" media="all" rel="stylesheet" />
+    <script src="/wp-content/uploads/custom-css-js/10.js"></script>
+    <link href="/wp-content/uploads/custom-css-js/9.css" id="9-css" media="all" rel="stylesheet" />
     <script type="application/ld+json">{
     "@context": "https://schema.org/",
     "@type": "CreativeWorkSeries",
@@ -1511,13 +1510,13 @@
     }
 }</script>
     <script
-        type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Article","name":"Article","url":"http://localhost/exomind-vs-traditional-tms/","headline":"Exomind vs Traditional TMS: What&#8217;s the Difference?","description":"As awareness of brain health and mental wellness continues to grow, innovative treatments like Exomind and traditional Transcranial Magnetic Stimulation ... <p...","datePublished":"2026-06-20T06:52:12+00:00","dateModified":"2026-06-20T06:52:14+00:00","wordCount":"980","image":"http://localhost/wp-content/uploads/2026/02/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom.png","Author":{"@type":"Person","url":"http://localhost/exomind-vs-traditional-tms/"},"@id":"http://localhost/exomind-vs-traditional-tms/#article"},{"@type":"WebSite","name":"Brain Tune TMS","description":"Achieve good mental health and peak intellectual wellness with Brain Tune TMS in Rancho Mirage. Our mental health wellness solutions bridge emotional physical mental balance for true wellbeing.","url":"http://localhost","inLanguage":"en_US","@id":"http://localhost#website"},{"@type":"WebPage","name":"Exomind vs Traditional TMS: What&#8217;s the Difference?","url":"http://localhost/exomind-vs-traditional-tms/","description":"As awareness of brain health and mental wellness continues to grow, innovative treatments like Exomind and traditional Transcranial Magnetic Stimulation ... <p...","inLanguage":"en_US","@id":"http://localhost/exomind-vs-traditional-tms/#webpage"},{"@type":"BreadcrumbList","@id":"http://localhost/exomind-vs-traditional-tms/#breadcrumblist","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"http://localhost","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"http://localhost/category/tms/","name":"TMS"}},{"@type":"ListItem","position":3,"item":{"@id":"http://localhost/exomind-vs-traditional-tms/","name":"Exomind vs Traditional TMS: What&#8217;s the Difference?"}}]},{"@type":"SearchAction","@id":"http://localhost#searchaction","target":"http://localhost/?s={search_term_string}","query-input":"required name=search_term_string"},{"@type":"Person","name":"AdminBrainTune","url":"http://localhost/author/","brand":"Brain Tune TMS","description":"Achieve good mental health and peak intellectual wellness with Brain Tune TMS in Rancho Mirage. Our mental health wellness solutions bridge emotional physical mental balance for true wellbeing.","image":"https://secure.gravatar.com/avatar/f0e2fdba2bb1036c550794966f9d12491e2f4bd567a11ed43d28bbd03bd87f60?s=96&d=mm&r=g","@id":"http://localhost/author/#person"}]}</script>
+        type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Article","name":"Article","url":"exomind-vs-traditional-tms.php","headline":"Exomind vs Traditional TMS: What&#8217;s the Difference?","description":"As awareness of brain health and mental wellness continues to grow, innovative treatments like Exomind and traditional Transcranial Magnetic Stimulation ... <p...","datePublished":"2026-06-20T06:52:12+00:00","dateModified":"2026-06-20T06:52:14+00:00","wordCount":"980","image":"/wp-content/uploads/2026/02/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom.png","Author":{"@type":"Person","url":"exomind-vs-traditional-tms.php"},"@id":"exomind-vs-traditional-tms.php#article"},{"@type":"WebSite","name":"Brain Tune TMS","description":"Achieve good mental health and peak intellectual wellness with Brain Tune TMS in Rancho Mirage. Our mental health wellness solutions bridge emotional physical mental balance for true wellbeing.","url":"index.php","inLanguage":"en_US","@id":"index.php#website"},{"@type":"WebPage","name":"Exomind vs Traditional TMS: What&#8217;s the Difference?","url":"exomind-vs-traditional-tms.php","description":"As awareness of brain health and mental wellness continues to grow, innovative treatments like Exomind and traditional Transcranial Magnetic Stimulation ... <p...","inLanguage":"en_US","@id":"exomind-vs-traditional-tms.php#webpage"},{"@type":"BreadcrumbList","@id":"exomind-vs-traditional-tms.php#breadcrumblist","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"index.php","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"category__tms.php","name":"TMS"}},{"@type":"ListItem","position":3,"item":{"@id":"exomind-vs-traditional-tms.php","name":"Exomind vs Traditional TMS: What&#8217;s the Difference?"}}]},{"@type":"SearchAction","@id":"index.php#searchaction","target":"index.php?s={search_term_string}","query-input":"required name=search_term_string"},{"@type":"Person","name":"AdminBrainTune","url":"author__adminbraintune.php","brand":"Brain Tune TMS","description":"Achieve good mental health and peak intellectual wellness with Brain Tune TMS in Rancho Mirage. Our mental health wellness solutions bridge emotional physical mental balance for true wellbeing.","image":"https://secure.gravatar.com/avatar/f0e2fdba2bb1036c550794966f9d12491e2f4bd567a11ed43d28bbd03bd87f60?s=96&d=mm&r=g","@id":"author__adminbraintune.php#person"}]}</script>
     <meta
         content="Elementor 3.35.5; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap"
         name="generator" />
     <!-- Schema & Structured Data For WP v1.58 - -->
     <script class="saswp-schema-markup-output" type="application/ld+json">
-[{"@context":"https:\/\/schema.org\/","@type":"psychiatric","@id":"http:\/\/localhost\/exomind-vs-traditional-tms\/#psychiatric","url":"http:\/\/localhost\/exomind-vs-traditional-tms\/","name":"Brain Tune TMS","aggregateRating":{"@type":"AggregateRating","bestRating":"5","ratingCount":1,"ratingValue":5},"review":[],"image":[{"@type":"ImageObject","@id":"http:\/\/localhost\/exomind-vs-traditional-tms\/#primaryimage","url":"http:\/\/localhost\/wp-content\/uploads\/2026\/02\/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom.png","width":"1280","height":"731","caption":"tms for anxiety"},{"@type":"ImageObject","url":"http:\/\/localhost\/wp-content\/uploads\/2026\/02\/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom-1200x900.png","width":"1200","height":"900","caption":"tms for anxiety"},{"@type":"ImageObject","url":"http:\/\/localhost\/wp-content\/uploads\/2026\/02\/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom-1200x675.png","width":"1200","height":"675","caption":"tms for anxiety"},{"@type":"ImageObject","url":"http:\/\/localhost\/wp-content\/uploads\/2026\/02\/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom-731x731.png","width":"731","height":"731","caption":"tms for anxiety"}]}]
+[{"@context":"https:\/\/schema.org\/","@type":"psychiatric","@id":"https:\/\/braintunetms.com\/exomind-vs-traditional-tms\/#psychiatric","url":"https:\/\/braintunetms.com\/exomind-vs-traditional-tms\/","name":"Brain Tune TMS","aggregateRating":{"@type":"AggregateRating","bestRating":"5","ratingCount":1,"ratingValue":5},"review":[],"image":[{"@type":"ImageObject","@id":"https:\/\/braintunetms.com\/exomind-vs-traditional-tms\/#primaryimage","url":"/wp-content/uploads\/2026\/02\/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom.png","width":"1280","height":"731","caption":"tms for anxiety"},{"@type":"ImageObject","url":"/wp-content/uploads\/2026\/02\/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom-1200x900.png","width":"1200","height":"900","caption":"tms for anxiety"},{"@type":"ImageObject","url":"/wp-content/uploads\/2026\/02\/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom-1200x675.png","width":"1200","height":"675","caption":"tms for anxiety"},{"@type":"ImageObject","url":"/wp-content/uploads\/2026\/02\/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom-731x731.png","width":"731","height":"731","caption":"tms for anxiety"}]}]
 </script>
     <style>
         .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
@@ -1541,13 +1540,13 @@
             }
         }
     </style>
-    <link href="./wp-content/uploads/2026/02/cropped-braintunetmslogo-removebg-preview-32x32.png" rel="icon"
+    <link href="/wp-content/uploads/2026/02/cropped-braintunetmslogo-removebg-preview-32x32.png" rel="icon"
         sizes="32x32" />
-    <link href="./wp-content/uploads/2026/02/cropped-braintunetmslogo-removebg-preview-192x192.png" rel="icon"
+    <link href="/wp-content/uploads/2026/02/cropped-braintunetmslogo-removebg-preview-192x192.png" rel="icon"
         sizes="192x192" />
-    <link href="./wp-content/uploads/2026/02/cropped-braintunetmslogo-removebg-preview-180x180.png"
+    <link href="/wp-content/uploads/2026/02/cropped-braintunetmslogo-removebg-preview-180x180.png"
         rel="apple-touch-icon" />
-    <meta content="http://localhost/wp-content/uploads/2026/02/cropped-braintunetmslogo-removebg-preview-270x270.png"
+    <meta content="/wp-content/uploads/2026/02/cropped-braintunetmslogo-removebg-preview-270x270.png"
         name="msapplication-TileImage" />
     <style id="wp-custom-css">
         /* GeneratePress Site CSS */
@@ -2478,7 +2477,7 @@
             }
         }
     </style>
-    <script defer="" src="./wp-includes/js/wp-emoji-release.min.js"></script>
+    <script defer="" src="/wp-includes/js/wp-emoji-release.min.js"></script>
 </head>
 
 <body
@@ -2495,8 +2494,8 @@
                             <div class="featured-image page-header-image-single">
                                 <img alt="tms for anxiety" class="attachment-full size-full" decoding="async"
                                     height="731" sizes="(max-width: 1280px) 100vw, 1280px"
-                                    src="./wp-content/uploads/2026/02/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom.png"
-                                    srcset="./wp-content/uploads/2026/02/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom.png 1280w, ./wp-content/uploads/2026/02/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom-300x171.png 300w, ./wp-content/uploads/2026/02/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom-1024x585.png 1024w, ./wp-content/uploads/2026/02/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom-768x439.png 768w"
+                                    src="/wp-content/uploads/2026/02/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom.png"
+                                    srcset="/wp-content/uploads/2026/02/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom.png 1280w, ./wp-content/uploads/2026/02/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom-300x171.png 300w, ./wp-content/uploads/2026/02/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom-1024x585.png 1024w, ./wp-content/uploads/2026/02/Gemini_Generated_Image_wecpqrwecpqrwecp-Photoroom-768x439.png 768w"
                                     width="1280" />
                             </div>
                             <header class="entry-header">
@@ -2505,7 +2504,7 @@
                                     <span class="posted-on"><time class="entry-date published"
                                             datetime="2026-06-20T06:52:12+00:00">June 20, 2026</time></span> <span
                                         class="byline">by <span class="author vcard"><a class="url fn n"
-                                                href="author__adminbraintune.php" rel="author"
+                                                href="/author/adminbraintune" rel="author"
                                                 title="View all posts by AdminBrainTune"><span
                                                     class="author-name">AdminBrainTune</span></a></span></span>
                                 </div>
@@ -2781,7 +2780,7 @@
                                                 d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z">
                                             </path>
                                         </svg></span><span class="screen-reader-text">Categories </span><a
-                                        href="category__tms.php" rel="category tag">TMS</a></span>
+                                        href="/category/tms" rel="category tag">TMS</a></span>
                                 <nav aria-label="Posts" class="post-navigation" id="nav-below">
                                     <div class="nav-previous"><span class="gp-icon icon-arrow-left"><svg
                                                 aria-hidden="true" clip-rule="evenodd" fill-rule="evenodd" height="1em"
@@ -2791,7 +2790,7 @@
                                                     d="M178.425 138.212c0 2.265-1.133 4.813-2.832 6.512L64.276 256.001l111.317 111.277c1.7 1.7 2.832 4.247 2.832 6.513 0 2.265-1.133 4.813-2.832 6.512L161.43 394.46c-1.7 1.7-4.249 2.832-6.514 2.832-2.266 0-4.816-1.133-6.515-2.832L16.407 262.514c-1.699-1.7-2.832-4.248-2.832-6.513 0-2.265 1.133-4.813 2.832-6.512l131.994-131.947c1.7-1.699 4.249-2.831 6.515-2.831 2.265 0 4.815 1.132 6.514 2.831l14.163 14.157c1.7 1.7 2.832 3.965 2.832 6.513z"
                                                     fill-rule="nonzero"></path>
                                             </svg></span><span class="prev"><a
-                                                href="exomind-tms-a-drug-free-approach.php" rel="prev">Exomind TMS: A
+                                                href="/exomind-tms-a-drug-free-approach" rel="prev">Exomind TMS: A
                                                 Drug-Free Approach to Mental Well-Being</a></span></div>
                                     <div class="nav-next"><span class="gp-icon icon-arrow-right"><svg aria-hidden="true"
                                                 clip-rule="evenodd" fill-rule="evenodd" height="1em"
@@ -2801,7 +2800,7 @@
                                                     d="M178.425 256.001c0 2.266-1.133 4.815-2.832 6.515L43.599 394.509c-1.7 1.7-4.248 2.833-6.514 2.833s-4.816-1.133-6.515-2.833l-14.163-14.162c-1.699-1.7-2.832-3.966-2.832-6.515 0-2.266 1.133-4.815 2.832-6.515l111.317-111.316L16.407 144.685c-1.699-1.7-2.832-4.249-2.832-6.515s1.133-4.815 2.832-6.515l14.163-14.162c1.7-1.7 4.249-2.833 6.515-2.833s4.815 1.133 6.514 2.833l131.994 131.993c1.7 1.7 2.832 4.249 2.832 6.515z"
                                                     fill-rule="nonzero"></path>
                                             </svg></span><span class="next"><a
-                                                href="how-exomind-tms-supports-long-term-brain-health.php"
+                                                href="/how-exomind-tms-supports-long-term-brain-health"
                                                 rel="next">How Exomind TMS Supports Long-Term Brain Health</a></span>
                                     </div>
                                 </nav>
@@ -2835,7 +2834,7 @@
                                     <span style="color: #cbd5e1 !important;">Rancho Mirage, CA</span>
                                 </div>
                             </div>
-                            <a href="index.php#contact-form" style="display: block !important; text-align: center !important; background: #ffffff !important; color: #1D0F20 !important; font-weight: 700 !important; font-size: 15px !important; padding: 14px 20px !important; border-radius: 9999px !important; text-decoration: none !important; box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important;">Book a Consultation</a>
+                            <a href="/#contact-form" style="display: block !important; text-align: center !important; background: #ffffff !important; color: #1D0F20 !important; font-weight: 700 !important; font-size: 15px !important; padding: 14px 20px !important; border-radius: 9999px !important; text-decoration: none !important; box-shadow: 0 4px 12px rgba(0,0,0,0.15) !important;">Book a Consultation</a>
                         </div>
                     </div>
                 </div>

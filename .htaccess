@@ -1,0 +1,49 @@
+# ------------------------------------------------------------------------------
+# Brain Tune TMS - Apache URL Rewriting & Redirection Rules
+# ------------------------------------------------------------------------------
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+
+    # 1. Redirect /index.php to root /
+    RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/index\.php[?\s] [NC]
+    RewriteRule ^index\.php$ / [R=301,L]
+
+    # 2. Redirect internal PHP filenames to clean WordPress-style URLs
+    RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/category__([^\s\.]+)\.php[?\s] [NC]
+    RewriteRule ^category__([^\s\.]+)\.php$ /category/$1 [R=301,L]
+
+    RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/tag__([^\s\.]+)\.php[?\s] [NC]
+    RewriteRule ^tag__([^\s\.]+)\.php$ /tag/$1 [R=301,L]
+
+    RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/author__([^\s\.]+)\.php[?\s] [NC]
+    RewriteRule ^author__([^\s\.]+)\.php$ /author/$1 [R=301,L]
+
+    # 3. Redirect direct .php requests to clean extensionless URLs (e.g. /page.php -> /page)
+    RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/+(.+?)\.php[?\s] [NC]
+    RewriteRule ^ %1 [R=301,L]
+
+    # 4. Redirect URLs with trailing slash to non-trailing slash (e.g. /page/ -> /page), except root / and real directories
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_URI} ^(.+)/$
+    RewriteRule ^(.+)/$ /$1 [R=301,L]
+
+    # 5. Asset routing fallback for subfolder paths (e.g. /category/wp-content/... -> /wp-content/...)
+    RewriteRule ^(?:category|tag|author)/((?:wp-content|wp-includes|photos|_external)/.*)$ /$1 [L,NC]
+
+    # 6. Internal Rewrites:
+    # Category URLs: /category/adhd -> category__adhd.php
+    RewriteRule ^category/([^/]+)$ category__$1.php [L,NC,QSA]
+
+    # Tag URLs: /tag/slug -> tag__slug.php
+    RewriteRule ^tag/([^/]+)$ tag__$1.php [L,NC,QSA]
+
+    # Author URLs: /author or /author/slug -> author__adminbraintune.php
+    RewriteRule ^author(?:/[^/]+)?$ author__adminbraintune.php [L,NC,QSA]
+
+    # Standard extensionless page rewrites: /how-much-does-exomind-treatment-cost -> how-much-does-exomind-treatment-cost.php
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{DOCUMENT_ROOT}/$1.php -f [OR]
+    RewriteCond %{REQUEST_FILENAME}.php -f
+    RewriteRule ^([^\.]+)$ $1.php [L,QSA]
+</IfModule>

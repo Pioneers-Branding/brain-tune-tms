@@ -1,6 +1,6 @@
 <a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
 <header id="masthead">
-    <p class="main-title bhf-hidden"><a href="index.php" rel="home" title="Brain Tune TMS">Brain Tune TMS</a></p>
+    <p class="main-title bhf-hidden"><a href="/" rel="home" title="Brain Tune TMS">Brain Tune TMS</a></p>
     <div class="elementor elementor-12" data-elementor-id="12" data-elementor-type="wp-post">
         <div class="elementor-element elementor-element-86e1d34 e-con-full e-flex e-con e-parent e-lazyloaded"
             data-e-type="container" data-element_type="container" data-id="86e1d34">
@@ -10,10 +10,10 @@
                 <nav class="fixed top-0 z-50 w-full transition-all duration-300 border-b border-white/5" id="navbar">
                     <div class="absolute inset-0 bg-[#1D0F20]/80 backdrop-blur-md shadow-sm"></div>
                     <div class="container relative mx-auto h-16 flex items-center justify-between">
-                        <a class="flex items-center gap-3 group" href="index.php">
+                        <a class="flex items-center gap-3 group" href="/">
                             <img alt="Brain Tune TMS Therapy Rancho Mirage"
                                 class="h-12 w-auto group-hover:scale-105 transition-transform duration-300"
-                                src="photos/braintunetmslogo-removebg-preview.png" />
+                                src="/photos/braintunetmslogo-removebg-preview.png" />
                             <div class="flex flex-col">
                                 <span
                                     class="text-xl font-bold font-heading tracking-tight text-white leading-none">Brain
@@ -24,16 +24,16 @@
                             </div>
                         </a>
                         <div class="hidden lg:flex items-center gap-8 font-medium text-sm text-slate-300">
-                            <a class="hover:text-white transition-colors" href="index.php#optimization">Brain
+                            <a class="hover:text-white transition-colors" href="/#optimization">Brain
                                 Optimization</a>
-                            <a class="hover:text-white transition-colors" href="index.php#wellness">Mental Wellness</a>
-                            <a class="hover:text-white transition-colors" href="index.php#technology">Technology</a>
-                            <a class="hover:text-white transition-colors" href="blog.php">Blog</a>
-                            <a class="hover:text-white transition-colors" href="index.php#faq">FAQ</a>
+                            <a class="hover:text-white transition-colors" href="/#wellness">Mental Wellness</a>
+                            <a class="hover:text-white transition-colors" href="/#technology">Technology</a>
+                            <a class="hover:text-white transition-colors" href="/blog">Blog</a>
+                            <a class="hover:text-white transition-colors" href="/#faq">FAQ</a>
                         </div>
                         <div class="flex items-center gap-4">
                             <a class="inline-flex items-center justify-center px-6 py-2.5 text-sm font-semibold text-white transition-all bg-brand-600 rounded-full hover:bg-brand-500 focus:outline-none focus:ring-2 focus:ring-brand-400 focus:ring-offset-2 shadow-lg shadow-brand-500/20"
-                                href="index.php#contact-form">
+                                href="/#contact-form">
                                 Contact Us
                             </a>
                         </div>
@@ -61,9 +61,9 @@
         <div class="main-nav" id="primary-menu">
             <ul class="menu sf-menu" id="menu-primary-marketer">
                 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46" id="menu-item-46"><a
-                        href="index.php">Home</a></li>
+                        href="/">Home</a></li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48" id="menu-item-48"><a
-                        href="blog.php">Blog</a></li>
+                        href="/blog">Blog</a></li>
             </ul>
         </div>
         <div class="menu-bar-items"> <span class="menu-bar-item">

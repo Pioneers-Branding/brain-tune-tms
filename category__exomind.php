@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en-US"><head>
 <meta charset="utf-8"/>
 <title>exomind - Brain Tune TMS</title>
@@ -85,7 +85,7 @@ body{background-color:var(--base);color:var(--contrast);}a{color:#1b78e2;}a:hove
 <link href="./_external/fonts.googleapis.com/css2_81a49e72.css" rel="stylesheet"/>
 <meta content="80rLMhIjWQCmNs0wP3Jr0dkEEK9i6z4bBDMA_5Iua30" name="google-site-verification"/>
 <!-- Tailwind CSS -->
-<script src="./_external/cdn.tailwindcss.com/.js"></script>
+<script src="https://cdn.tailwindcss.com"></script>
 <script>
         tailwind.config = {
             theme: {

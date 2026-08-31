@@ -84,7 +84,7 @@ body{background-color:var(--base);color:var(--contrast);}a{color:#1b78e2;}a:hove
 <link href="./_external/fonts.googleapis.com/css2_81a49e72.css" rel="stylesheet"/>
 <meta content="80rLMhIjWQCmNs0wP3Jr0dkEEK9i6z4bBDMA_5Iua30" name="google-site-verification"/>
 <!-- Tailwind CSS -->
-<script src="./_external/cdn.tailwindcss.com/.js"></script>
+<script src="https://cdn.tailwindcss.com"></script>
 <script>
         tailwind.config = {
             theme: {
@@ -1036,7 +1036,7 @@ p {
 <div class="lg:col-span-3 bg-white p-8 md:p-12">
 <div class="ep-iFrameContainer" id="inline-XKsZ8aodhtbDzEJlCMX4-div" style="border-radius: 8px; display: block;"><div class="ep-wrapper" id="inline-XKsZ8aodhtbDzEJlCMX4-wrapper" style="border-radius: 8px;"><iframe data-activation-type="alwaysActivated" data-activation-value="" data-deactivation-type="neverDeactivate" data-deactivation-value="" data-form-id="XKsZ8aodhtbDzEJlCMX4" data-form-name="BrainTuneTMS Website Form" data-height="489" data-iframe-resizer-initialized="true" data-initial-iframe-hidden="true" data-layout="{'id':'INLINE'}" data-layout-iframe-id="inline-XKsZ8aodhtbDzEJlCMX4" data-trigger-type="alwaysShow" data-trigger-value="" data-unique-id-mapped="true" id="inline-XKsZ8aodhtbDzEJlCMX4" scrolling="yes" src="https://api.leadconnectorhq.com/widget/form/XKsZ8aodhtbDzEJlCMX4" style="width: 100%; height: 568px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; border-radius: 8px; opacity: 1; visibility: visible; pointer-events: auto; position: relative; overflow: auto; display: block;" title="BrainTuneTMS Website Form">
 </iframe></div></div>
-<script src="./_external/link.msgsndr.com/js/form_embed.js"></script>
+<script src="https://link.msgsndr.com/js/form_embed.js"></script>
 </div>
 </div>
 </div>

@@ -61,7 +61,7 @@
         <div class="main-nav" id="primary-menu">
             <ul class="menu sf-menu" id="menu-primary-marketer">
                 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46" id="menu-item-46"><a
-                        href="https://galaxypolymers.com/braintune/">Home</a></li>
+                        href="index.php">Home</a></li>
                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48" id="menu-item-48"><a
                         href="blog.php">Blog</a></li>
             </ul>

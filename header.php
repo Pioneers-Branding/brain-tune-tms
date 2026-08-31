@@ -13,7 +13,7 @@
                         <a class="flex items-center gap-3 group" href="index.php">
                             <img alt="Brain Tune TMS Therapy Rancho Mirage"
                                 class="h-12 w-auto group-hover:scale-105 transition-transform duration-300"
-                                src="./photos/braintunetmslogo-removebg-preview.png" />
+                                src="photos/braintunetmslogo-removebg-preview.png" />
                             <div class="flex flex-col">
                                 <span
                                     class="text-xl font-bold font-heading tracking-tight text-white leading-none">Brain

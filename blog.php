@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en-US">
 
 <head>
@@ -2554,7 +2554,38 @@
                     </div>
 
                     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 pb-12">
-                        <!-- Post 1 -->
+                        <!-- Post 1 (New) -->
+                        <article
+                            class="bg-white rounded-2xl shadow-soft hover:shadow-lg transition-all duration-300 overflow-hidden flex flex-col group border border-gray-100">
+                            <a href="/does-exomind-therapy-really-work"
+                                class="relative h-56 overflow-hidden block">
+                                <img src="/wp-content/uploads/2026/09/does-exomind-therapy-really-work.jpg"
+                                    class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
+                                    alt="Patient receiving Exomind therapy treatment in a modern brain wellness clinic" />
+                                <div
+                                    class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                                </div>
+                            </a>
+                            <div class="p-6 flex flex-col flex-grow">
+                                <div class="text-brand-600 text-sm font-semibold mb-3 tracking-wider uppercase">September 9, 2026</div>
+                                <h2 class="text-xl font-heading font-bold text-gray-900 mb-3 group-hover:text-brand-600 transition-colors line-clamp-2"
+                                    style="margin-top: 0 !important; font-size: 20px !important;">
+                                    <a href="/does-exomind-therapy-really-work">Does Exomind Therapy Really Work?</a>
+                                </h2>
+                                <p class="text-gray-600 text-sm mb-6 line-clamp-3 flex-grow leading-relaxed">Discover whether Exomind TMS therapy really works, examining clinical evidence, success rates, patient experiences, and scientific mechanisms...</p>
+                                <a href="/does-exomind-therapy-really-work"
+                                    class="inline-flex items-center text-brand-600 font-semibold hover:text-brand-700 transition-colors mt-auto group/link">
+                                    Read Article
+                                    <svg class="w-4 h-4 ml-2 transform group-hover/link:translate-x-1 transition-transform"
+                                        fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                                    </svg>
+                                </a>
+                            </div>
+                        </article>
+
+                        <!-- Post 2 -->
                         <article
                             class="bg-white rounded-2xl shadow-soft hover:shadow-lg transition-all duration-300 overflow-hidden flex flex-col group border border-gray-100">
                             <a href="/how-much-does-exomind-treatment-cost"

@@ -17,11 +17,10 @@
 						<div class="container mx-auto px-6 relative z-10">
 							<div class="grid md:grid-cols-4 gap-12 mb-12">
 								<div class="col-span-1 md:col-span-2">
-									<a class="flex items-center gap-2 mb-6 opacity-90 hover:opacity-100 transition-opacity"
+									<a class="inline-flex items-center mb-6 opacity-90 hover:opacity-100 transition-opacity"
 										href="/">
-										<img alt="Brain Tune TMS Logo" class="h-10 w-auto"
-											src="/photos/braintunetmslogo-removebg-preview.png" />
-										<span class="text-xl font-bold font-heading text-white">Brain Tune TMS</span>
+										<img alt="Brain Tune TMS Logo" class="w-auto" style="height:64px;width:auto;max-width:100%"
+											src="<?php echo isset($nav_logo) ? $nav_logo : '/photos/braintunetms-logo-nav.png'; ?>" />
 									</a>
 									<p class="text-slate-400 leading-relaxed max-w-sm mb-6">
 										Pioneering the future of brain optimization. We combine cutting-edge technology

@@ -2536,7 +2536,7 @@
 
 <body
     class="blog wp-embed-responsive wp-theme-generatepress post-image-below-header post-image-aligned-left ehf-header ehf-footer ehf-template-generatepress ehf-stylesheet-generatepress no-sidebar nav-below-header separate-containers header-aligned-left dropdown-hover elementor-default elementor-kit-6 bg-slate-50">
-    <?php $nav_logo = '/photos/braintune-logo-nav.png'; include 'header.php'; ?>
+    <?php $nav_logo = '/photos/braintune-logo-square.png'; include 'header.php'; ?>
     <div class="site grid-container container hfeed" id="page">
         <div class="site-content" id="content">
             <div class="content-area w-full" id="primary" style="width: 100% !important;">

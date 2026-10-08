@@ -7,14 +7,14 @@
             <div class="elementor-element elementor-element-1c8e616 elementor-widget elementor-widget-html"
                 data-e-type="widget" data-element_type="widget" data-id="1c8e616" data-widget_type="html.default">
                 <meta content="80rLMhIjWQCmNs0wP3Jr0dkEEK9i6z4bBDMA_5Iua30" name="google-site-verification" />
-                <style>#navbar img.nav-logo{height:48px;width:auto;max-width:none}@media(min-width:640px){#navbar img.nav-logo{height:56px}}</style>
+                <style>#navbar img.nav-logo{height:56px;width:auto;max-width:none}@media(min-width:640px){#navbar img.nav-logo{height:72px}#navbar>.container{height:5rem}#masthead{padding-top:1rem}}</style>
                 <nav class="fixed top-0 z-50 w-full transition-all duration-300 border-b border-white/5" id="navbar">
                     <div class="absolute inset-0 bg-[#300B4A] shadow-sm"></div>
                     <div class="container relative mx-auto h-16 flex items-center justify-between">
                         <a class="flex items-center group" href="/">
                             <img alt="Brain Tune TMS Therapy Rancho Mirage"
                                 class="nav-logo w-auto group-hover:scale-105 transition-transform duration-300"
-                                src="<?php echo isset($nav_logo) ? $nav_logo : '/photos/braintunetms-logo-nav.png'; ?>" />
+                                src="<?php echo isset($nav_logo) ? $nav_logo : '/photos/braintunetms-logo-square.png'; ?>" />
                         </a>
                         <div class="hidden lg:flex items-center gap-8 font-medium text-sm text-slate-300">
                             <a class="hover:text-white transition-colors" href="/#optimization">Brain

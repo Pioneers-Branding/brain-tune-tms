@@ -19,8 +19,8 @@
 								<div class="col-span-1 md:col-span-2">
 									<a class="inline-flex items-center mb-6 opacity-90 hover:opacity-100 transition-opacity"
 										href="/">
-										<img alt="Brain Tune TMS Logo" class="w-auto" style="height:64px;width:auto;max-width:100%"
-											src="<?php echo isset($nav_logo) ? $nav_logo : '/photos/braintunetms-logo-nav.png'; ?>" />
+										<img alt="Brain Tune TMS Logo" class="w-auto" style="height:120px;width:auto;max-width:100%"
+											src="<?php echo isset($nav_logo) ? $nav_logo : '/photos/braintunetms-logo-square.png'; ?>" />
 									</a>
 									<p class="text-slate-400 leading-relaxed max-w-sm mb-6">
 										Pioneering the future of brain optimization. We combine cutting-edge technology

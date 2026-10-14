@@ -243,7 +243,7 @@
                 "@id": "https://braintunetms.com/does-exomind-therapy-really-work#breadcrumblist",
                 "itemListElement": [
                     { "@type": "ListItem", "position": 1, "item": { "@id": "index.php", "name": "Home" } },
-                    { "@type": "ListItem", "position": 2, "item": { "@id": "category__exomind.php", "name": "Exomind" } },
+                    { "@type": "ListItem", "position": 2, "item": { "@id": "category__tms.php", "name": "TMS" } },
                     { "@type": "ListItem", "position": 3, "item": { "@id": "https://braintunetms.com/does-exomind-therapy-really-work", "name": "Does Exomind Therapy Really Work?" } }
                 ]
             }
@@ -364,7 +364,7 @@
         <div class="site-content" id="content">
             <div class="content-area" id="primary">
                 <main class="site-main" id="main">
-                    <article class="post-496 post type-post status-publish format-standard has-post-thumbnail hentry category-exomind" id="post-496">
+                    <article class="post-496 post type-post status-publish format-standard has-post-thumbnail hentry category-tms" id="post-496">
                         <div class="inside-article">
                             <div class="featured-image page-header-image-single">
                                 <img alt="Patient receiving Exomind therapy treatment in a modern brain wellness clinic" class="attachment-full size-full" decoding="async" height="1080" sizes="(max-width: 1000px) 100vw, 1000px" src="/wp-content/uploads/2026/09/does-exomind-therapy-really-work.jpg" width="1920"/>
@@ -465,13 +465,16 @@
                                 <p class="wp-block-paragraph">Beyond acute symptom relief, regular neurostimulation supports long-term neuroprotection. By promoting synaptic plasticity and neurogenesis, Exomind therapy actively supports <a href="/how-exomind-tms-supports-long-term-brain-health">long-term brain health</a>, helping keep executive function sharp as you age.</p>
 
                                 <!-- Strategic In-Content CTA Box -->
-                                <div style="background: linear-gradient(135deg, #1D0F20 0%, #2e1833 100%); color: #ffffff; padding: 35px 30px; border-radius: 16px; margin: 40px 0; box-shadow: 0 10px 25px rgba(29, 15, 32, 0.15);">
-                                    <span style="font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: #c4b5fd; display: block; margin-bottom: 8px;">Personalized Evaluation in Rancho Mirage</span>
-                                    <h3 style="color: #ffffff !important; font-size: 24px !important; margin-top: 0 !important; margin-bottom: 12px !important;">Curious If Exomind Therapy Will Work For You?</h3>
-                                    <p style="color: #cbd5e1; font-size: 16px; line-height: 1.6; margin-bottom: 20px;">At BrainTune TMS, our clinical specialists customize every Exomind protocol based on your unique brain health profile and goals.</p>
-                                    <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
-                                        <a href="/#contact-form" style="background: #0ea5e9; color: #ffffff !important; font-weight: 700; font-size: 15px; padding: 12px 24px; border-radius: 9999px; text-decoration: none; display: inline-block;">Schedule Your Consultation</a>
-                                        <a href="tel:760-343-5859" style="color: #ffffff !important; font-weight: 600; font-size: 15px; text-decoration: none; padding: 12px 20px; border: 1px solid rgba(255,255,255,0.3); border-radius: 9999px;">Call (760) 343-5859</a>
+                                <div style="background: linear-gradient(135deg, #1D0F20 0%, #2e1833 100%); color: #ffffff; padding: 38px 32px; border-radius: 16px; margin: 40px 0; box-shadow: 0 10px 25px rgba(29, 15, 32, 0.18);">
+                                    <span style="font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: #c4b5fd; display: block; margin-bottom: 10px;">Personalized Evaluation in Rancho Mirage</span>
+                                    <h3 style="color: #ffffff !important; font-size: 24px !important; font-weight: 700 !important; line-height: 1.35 !important; margin-top: 0 !important; margin-bottom: 12px !important;">Curious If Exomind Therapy Will Work For You?</h3>
+                                    <p style="color: #cbd5e1 !important; font-size: 15px; line-height: 1.65; margin-bottom: 24px;">At BrainTune TMS, our clinical specialists customize every Exomind protocol based on your unique brain health profile and goals.</p>
+                                    <div style="display: flex; gap: 14px; flex-wrap: wrap; align-items: center;">
+                                        <a href="/#contact-form" style="background: #ffffff; color: #1D0F20 !important; font-weight: 700; font-size: 15px; padding: 13px 28px; border-radius: 9999px; text-decoration: none; display: inline-block; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);">Book a Consultation</a>
+                                        <a href="tel:760-343-5859" style="display: inline-flex; align-items: center; gap: 10px; color: #ffffff !important; font-weight: 600; font-size: 14px; text-decoration: none; padding: 12px 22px; background: rgba(255, 255, 255, 0.1); border-radius: 9999px; border: 1px solid rgba(255, 255, 255, 0.15);">
+                                            <svg style="width: 17px; height: 17px; fill: none; stroke: #c4b5fd;" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path></svg>
+                                            <span style="color: #ffffff !important;">(760) 343-5859</span>
+                                        </a>
                                     </div>
                                 </div>
 
@@ -590,10 +593,17 @@
                                 <p class="wp-block-paragraph">If you are ready to take control of your brain health and experience the transformative benefits of Exomind therapy, contact <strong>BrainTune TMS</strong> today. Our expert clinical team in Rancho Mirage, CA is here to guide you every step of the way toward a clearer, brighter future.</p>
 
                                 <!-- Strong Final CTA -->
-                                <div style="background-color: #f8fafc; border: 2px solid #e2e8f0; padding: 30px; border-radius: 12px; margin-top: 40px; text-align: center;">
-                                    <h3 style="margin-top: 0 !important; color: #0f172a !important; font-size: 22px !important; font-weight: 700;">Take the First Step Toward Optimal Mental Vitality</h3>
-                                    <p style="color: #475569; font-size: 16px; margin-bottom: 20px;">Contact BrainTune TMS today to schedule your comprehensive Exomind evaluation.</p>
-                                    <a href="/#contact-form" style="background-color: #0284c7; color: #ffffff !important; font-weight: 700; padding: 14px 32px; border-radius: 9999px; text-decoration: none; display: inline-block; box-shadow: 0 4px 12px rgba(2, 132, 199, 0.25);">Book Your Consultation Today</a>
+                                <div style="background: linear-gradient(135deg, #1D0F20 0%, #2e1833 100%); color: #ffffff; padding: 42px 32px; border-radius: 16px; margin-top: 45px; text-align: center; box-shadow: 0 10px 25px rgba(29, 15, 32, 0.18);">
+                                    <span style="font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: #c4b5fd; display: block; margin-bottom: 10px;">Take the Next Step</span>
+                                    <h3 style="margin-top: 0 !important; color: #ffffff !important; font-size: 24px !important; font-weight: 700 !important; line-height: 1.35 !important; margin-bottom: 12px !important;">Take the First Step Toward Optimal Mental Vitality</h3>
+                                    <p style="color: #cbd5e1 !important; font-size: 15px; line-height: 1.65; margin-bottom: 24px; max-width: 580px; margin-left: auto; margin-right: auto;">Contact BrainTune TMS today to schedule your comprehensive Exomind evaluation in Rancho Mirage, CA.</p>
+                                    <div style="display: flex; gap: 14px; flex-wrap: wrap; justify-content: center; align-items: center;">
+                                        <a href="/#contact-form" style="background: #ffffff; color: #1D0F20 !important; font-weight: 700; font-size: 15px; padding: 13px 30px; border-radius: 9999px; text-decoration: none; display: inline-block; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);">Book Your Consultation Today</a>
+                                        <a href="tel:760-343-5859" style="display: inline-flex; align-items: center; gap: 10px; color: #ffffff !important; font-weight: 600; font-size: 14px; text-decoration: none; padding: 12px 22px; background: rgba(255, 255, 255, 0.1); border-radius: 9999px; border: 1px solid rgba(255, 255, 255, 0.15);">
+                                            <svg style="width: 17px; height: 17px; fill: none; stroke: #c4b5fd;" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path></svg>
+                                            <span style="color: #ffffff !important;">(760) 343-5859</span>
+                                        </a>
+                                    </div>
                                 </div>
 
                             </div>
@@ -604,7 +614,7 @@
                                         <svg aria-hidden="true" height="1em" viewbox="0 0 512 512" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M0 112c0-26.51 21.49-48 48-48h110.014a48 48 0 0143.592 27.907l12.349 26.791A16 16 0 00228.486 128H464c26.51 0 48 21.49 48 48v224c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V112z"></path></svg>
                                     </span>
                                     <span class="screen-reader-text">Categories </span>
-                                    <a href="/category/exomind" rel="category tag">Exomind</a>
+                                    <a href="/category/tms" rel="category tag">TMS</a>
                                 </span>
                                 <nav aria-label="Posts" class="post-navigation" id="nav-below">
                                     <div class="nav-previous">
@@ -613,6 +623,14 @@
                                         </span>
                                         <span class="prev">
                                             <a href="/how-much-does-exomind-treatment-cost" rel="prev">How Much Does Exomind Treatment Cost?</a>
+                                        </span>
+                                    </div>
+                                    <div class="nav-next">
+                                        <span class="next">
+                                            <a href="/what-is-exomind-used-for" rel="next">What Is Exomind Used For?</a>
+                                        </span>
+                                        <span class="gp-icon icon-arrow-right">
+                                            <svg aria-hidden="true" clip-rule="evenodd" fill-rule="evenodd" height="1em" stroke-linejoin="round" stroke-miterlimit="1.414" viewbox="0 0 192 512" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M13.575 373.788c0-2.265 1.133-4.813 2.832-6.512L127.724 256 16.407 144.723c-1.7-1.7-2.832-4.247-2.832-6.513 0-2.265 1.133-4.813 2.832-6.512L30.57 117.54c1.7-1.7 4.249-2.832 6.514-2.832 2.266 0 4.816 1.133 6.515 2.832l131.994 131.946c1.699 1.7 2.832 4.248 2.832 6.513 0 2.265-1.133 4.813-2.832 6.512L43.599 394.46c-1.7 1.699-4.249 2.831-6.515 2.831-2.265 0-4.815-1.132-6.514-2.831l-14.163-14.157c-1.7-1.7-2.832-3.965-2.832-6.513z" fill-rule="nonzero"></path></svg>
                                         </span>
                                     </div> 
                                 </nav>

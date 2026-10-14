@@ -1,4 +1,8 @@
-﻿<!DOCTYPE html>
+<?php
+header("Location: /category/tms", true, 301);
+exit;
+?>
+<!DOCTYPE html>
 <html lang="en-US"><head>
 <meta charset="utf-8"/>
 <title>exomind - Brain Tune TMS</title>

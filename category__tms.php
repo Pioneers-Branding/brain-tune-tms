@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en-US"><head>
 <meta charset="utf-8"/>
 <title>TMS - Brain Tune TMS</title>
@@ -212,6 +212,32 @@ p {
 <div class="content-area" id="primary">
 <main class="site-main" id="main">
 <div><div class="gb-looper-9817aa94">
+<div class="gb-loop-item gb-loop-item-35fcb75c post-497 post type-post status-publish format-standard has-post-thumbnail hentry category-tms resize-featured-image is-loop-template-item">
+<h2 class="gb-text gb-text-ed5c40c8"><a href="/what-is-exomind-used-for" style="color: inherit; text-decoration: none;">What Is Exomind Used For?</a></h2>
+<p class="gb-text gb-text-dc1f9606">October 13, 2026</p>
+<div class="gb-element-c6384bbc">
+<div>
+<img alt="Patient receiving Exomind non-invasive neurostimulation therapy" class="gb-media-1789bf02" decoding="async" fetchpriority="high" height="644" sizes="(max-width: 768px) 100vw, 768px" src="/wp-content/uploads/2026/10/what-is-exomind-used-for.jpg" width="1024"/>
+</div>
+<div class="gb-element-1a1aed1b">
+<div class="gb-text">Discover what Exomind is used for, from clinical treatment of depression, severe anxiety, and brain fog to ADHD focus support and cognitive enhancement....</div>
+<a class="gb-text gb-text-77db8450" href="/what-is-exomind-used-for">Read more</a>
+</div>
+</div>
+</div>
+<div class="gb-loop-item gb-loop-item-35fcb75c post-496 post type-post status-publish format-standard has-post-thumbnail hentry category-tms resize-featured-image is-loop-template-item">
+<h2 class="gb-text gb-text-ed5c40c8"><a href="/does-exomind-therapy-really-work" style="color: inherit; text-decoration: none;">Does Exomind Therapy Really Work?</a></h2>
+<p class="gb-text gb-text-dc1f9606">September 9, 2026</p>
+<div class="gb-element-c6384bbc">
+<div>
+<img alt="Patient receiving Exomind therapy treatment" class="gb-media-1789bf02" decoding="async" height="720" sizes="(max-width: 768px) 100vw, 768px" src="/wp-content/uploads/2026/09/does-exomind-therapy-really-work.jpg" width="1000"/>
+</div>
+<div class="gb-element-1a1aed1b">
+<div class="gb-text">Exomind therapy is gaining rapid attention as a non-invasive, drug-free brain stimulation method. But does it really deliver measurable results?...</div>
+<a class="gb-text gb-text-77db8450" href="/does-exomind-therapy-really-work">Read more</a>
+</div>
+</div>
+</div>
 <div class="gb-loop-item gb-loop-item-35fcb75c post-495 post type-post status-publish format-standard has-post-thumbnail hentry category-tms resize-featured-image is-loop-template-item">
 <h2 class="gb-text gb-text-ed5c40c8">How Much Does Exomind Treatment Cost?</h2>
 <p class="gb-text gb-text-dc1f9606">August 6, 2026</p>

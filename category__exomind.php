@@ -250,7 +250,7 @@ p {
 <div class="gb-element-76365dcf">
 <div class="gb-text gb-text-c3994867">© 2026 Marketer • Built with <a href="https://generatepress.com/">GeneratePress</a></div>
 <div class="gb-element-6dacc793">
-<p class="gb-text gb-text-c00ec7c1"><a href="#">Privacy Policy</a></p>
+<p class="gb-text gb-text-c00ec7c1"><a href="/privacy-policy">Privacy Policy</a></p>
 <p class="gb-text gb-text-527cf36e"><a href="#">Terms</a></p>
 <p class="gb-text gb-text-7720e281"><a href="#">Contact</a></p>
 </div>

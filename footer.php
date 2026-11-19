@@ -95,6 +95,11 @@
 							<div
 								class="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-slate-500">
 								<p>© 2026 Brain Tune TMS. All rights reserved.</p>
+								<div class="flex gap-6">
+									<a class="hover:text-brand-400 transition-colors" href="/privacy-policy">Privacy Policy</a>
+									<button type="button" class="hover:text-brand-400 transition-colors"
+										onclick="window.btConsent && window.btConsent.open()">Cookie Settings</button>
+								</div>
 							</div>
 						</div>
 					</footer>
@@ -104,6 +109,158 @@
 	</div>
 </footer>
 </div>
+
+<!-- Cookie Consent Banner -->
+<style id="bt-cookie-consent-css">
+	#bt-cc{position:fixed;left:16px;right:16px;bottom:16px;z-index:99999;max-width:560px;margin-left:auto;margin-right:auto;
+		background:#1D0F20;color:#e2e8f0;border:1px solid rgba(255,255,255,.1);border-radius:16px;
+		box-shadow:0 20px 50px rgba(0,0,0,.35);padding:22px;font-family:inherit;font-size:14px;line-height:1.55;
+		transform:translateY(20px);opacity:0;visibility:hidden;transition:opacity .3s ease,transform .3s ease,visibility .3s}
+	#bt-cc.bt-cc--show{transform:translateY(0);opacity:1;visibility:visible}
+	#bt-cc h2{margin:0 0 6px;font-size:16px;font-weight:700;color:#fff}
+	#bt-cc p{margin:0 0 16px;color:#cbd5e1}
+	#bt-cc a{color:#38bdf8;text-decoration:underline}
+	#bt-cc .bt-cc-actions{display:flex;flex-wrap:wrap;gap:10px}
+	#bt-cc button.bt-cc-btn{flex:1 1 auto;min-width:120px;padding:10px 16px;border-radius:999px;font-weight:600;font-size:14px;
+		cursor:pointer;border:1px solid transparent;transition:background .2s,border-color .2s,color .2s}
+	#bt-cc .bt-cc-primary{background:#0ea5e9;color:#fff}
+	#bt-cc .bt-cc-primary:hover{background:#0284c7}
+	#bt-cc .bt-cc-secondary{background:transparent;color:#fff;border-color:rgba(255,255,255,.25)}
+	#bt-cc .bt-cc-secondary:hover{border-color:#fff}
+	#bt-cc .bt-cc-link{background:transparent;color:#cbd5e1;text-decoration:underline;flex:0 0 auto;min-width:0;padding:10px 4px}
+	#bt-cc .bt-cc-link:hover{color:#fff}
+	#bt-cc button:focus-visible,#bt-cc input:focus-visible{outline:2px solid #38bdf8;outline-offset:2px}
+	#bt-cc .bt-cc-prefs{display:none;margin:0 0 16px;border-top:1px solid rgba(255,255,255,.1);padding-top:12px}
+	#bt-cc.bt-cc--prefs .bt-cc-prefs{display:block}
+	#bt-cc.bt-cc--prefs .bt-cc-customize{display:none}
+	#bt-cc:not(.bt-cc--prefs) .bt-cc-save{display:none}
+	#bt-cc .bt-cc-row{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;padding:8px 0}
+	#bt-cc .bt-cc-row strong{display:block;color:#fff;font-size:14px}
+	#bt-cc .bt-cc-row span{display:block;color:#94a3b8;font-size:12.5px}
+	#bt-cc .bt-cc-switch{position:relative;flex:0 0 auto;width:42px;height:24px;margin-top:2px}
+	#bt-cc .bt-cc-switch input{position:absolute;opacity:0;width:100%;height:100%;margin:0;cursor:pointer;z-index:1}
+	#bt-cc .bt-cc-switch i{position:absolute;inset:0;border-radius:999px;background:#475569;transition:background .2s}
+	#bt-cc .bt-cc-switch i::after{content:"";position:absolute;top:3px;left:3px;width:18px;height:18px;border-radius:50%;background:#fff;transition:transform .2s}
+	#bt-cc .bt-cc-switch input:checked+i{background:#0ea5e9}
+	#bt-cc .bt-cc-switch input:checked+i::after{transform:translateX(18px)}
+	#bt-cc .bt-cc-switch input:disabled{cursor:not-allowed}
+	#bt-cc .bt-cc-switch input:disabled+i{opacity:.6}
+	@media (max-width:480px){#bt-cc{left:12px;right:12px;bottom:12px;padding:18px}#bt-cc button.bt-cc-btn{flex:1 1 100%}}
+	@media (prefers-reduced-motion:reduce){#bt-cc{transition:none}}
+</style>
+<div id="bt-cc" role="dialog" aria-live="polite" aria-labelledby="bt-cc-title" aria-describedby="bt-cc-desc" hidden>
+	<h2 id="bt-cc-title">We value your privacy</h2>
+	<p id="bt-cc-desc">We use cookies to keep this site working, understand how it's used, and improve your experience.
+		You can accept all cookies, reject non-essential ones, or choose which to allow.
+		<a href="/privacy-policy#cookies">Read our Privacy &amp; Cookie Policy</a>.</p>
+	<div class="bt-cc-prefs" id="bt-cc-prefs">
+		<div class="bt-cc-row">
+			<div><strong>Essential</strong><span>Required for the site to function. Always on.</span></div>
+			<label class="bt-cc-switch"><input type="checkbox" checked disabled aria-label="Essential cookies (always on)"><i></i></label>
+		</div>
+		<div class="bt-cc-row">
+			<div><strong>Analytics</strong><span>Helps us understand how visitors use the site.</span></div>
+			<label class="bt-cc-switch"><input type="checkbox" id="bt-cc-analytics" aria-label="Analytics cookies"><i></i></label>
+		</div>
+		<div class="bt-cc-row">
+			<div><strong>Marketing</strong><span>Used to show relevant ads and measure campaigns.</span></div>
+			<label class="bt-cc-switch"><input type="checkbox" id="bt-cc-marketing" aria-label="Marketing cookies"><i></i></label>
+		</div>
+	</div>
+	<div class="bt-cc-actions">
+		<button type="button" class="bt-cc-btn bt-cc-primary" data-cc="accept">Accept All</button>
+		<button type="button" class="bt-cc-btn bt-cc-secondary" data-cc="reject">Reject Non-Essential</button>
+		<button type="button" class="bt-cc-btn bt-cc-primary bt-cc-save" data-cc="save">Save Preferences</button>
+		<button type="button" class="bt-cc-btn bt-cc-link bt-cc-customize" data-cc="customize">Customize</button>
+	</div>
+</div>
+<script id="bt-cookie-consent-js">
+	/*
+	 * Cookie consent. To load a tracking script only after consent, add it as:
+	 *   <script type="text/plain" data-cookie-category="analytics" src="..."></script>
+	 * (category: "analytics" or "marketing"). It will be activated once the visitor allows that category.
+	 * Listen for changes with: document.addEventListener('bt:consent', e => console.log(e.detail));
+	 */
+	(function () {
+		var KEY = 'bt_cookie_consent', VERSION = 1, MAX_AGE = 60 * 60 * 24 * 180; // 180 days
+		var el = document.getElementById('bt-cc');
+		if (!el) return;
+		var an = document.getElementById('bt-cc-analytics'), mk = document.getElementById('bt-cc-marketing');
+		// Global Privacy Control: treat as an opt-out of marketing/ad cookies (CCPA/CPRA).
+		var gpc = navigator.globalPrivacyControl === true;
+		if (gpc) {
+			mk.disabled = true;
+			mk.setAttribute('aria-label', 'Marketing cookies (off: your browser sent a Global Privacy Control signal)');
+		}
+
+		function read() {
+			var raw = null;
+			try { raw = localStorage.getItem(KEY); } catch (e) { }
+			if (!raw) {
+				var m = document.cookie.match(new RegExp('(?:^|; )' + KEY + '=([^;]*)'));
+				raw = m ? decodeURIComponent(m[1]) : null;
+			}
+			try {
+				var c = raw && JSON.parse(raw);
+				if (!c || c.v !== VERSION) return null;
+				if (gpc) c.marketing = false;
+				return c;
+			} catch (e) { return null; }
+		}
+		function write(c) {
+			var s = JSON.stringify(c);
+			try { localStorage.setItem(KEY, s); } catch (e) { }
+			document.cookie = KEY + '=' + encodeURIComponent(s) + '; Max-Age=' + MAX_AGE + '; Path=/; SameSite=Lax' +
+				(location.protocol === 'https:' ? '; Secure' : '');
+		}
+		function activate(c) {
+			document.querySelectorAll('script[type="text/plain"][data-cookie-category]').forEach(function (s) {
+				if (!c[s.getAttribute('data-cookie-category')]) return;
+				var n = document.createElement('script');
+				for (var i = 0; i < s.attributes.length; i++) {
+					var a = s.attributes[i];
+					if (a.name !== 'type' && a.name !== 'data-cookie-category') n.setAttribute(a.name, a.value);
+				}
+				n.text = s.text;
+				s.parentNode.replaceChild(n, s);
+			});
+			document.dispatchEvent(new CustomEvent('bt:consent', { detail: c }));
+		}
+		function show(prefs) {
+			var c = read();
+			an.checked = !!(c && c.analytics);
+			mk.checked = !!(c && c.marketing);
+			el.classList.toggle('bt-cc--prefs', !!prefs);
+			el.hidden = false;
+			requestAnimationFrame(function () { el.classList.add('bt-cc--show'); });
+		}
+		function hide() {
+			el.classList.remove('bt-cc--show');
+			setTimeout(function () { if (!el.classList.contains('bt-cc--show')) el.hidden = true; }, 300);
+		}
+		function decide(analytics, marketing) {
+			var c = { v: VERSION, necessary: true, analytics: analytics, marketing: marketing && !gpc, ts: new Date().toISOString() };
+			write(c); hide(); activate(c);
+		}
+
+		el.addEventListener('click', function (e) {
+			var b = e.target.closest('[data-cc]');
+			if (!b) return;
+			var act = b.getAttribute('data-cc');
+			if (act === 'accept') decide(true, true);
+			else if (act === 'reject') decide(false, false);
+			else if (act === 'save') decide(an.checked, mk.checked);
+			else if (act === 'customize') { el.classList.add('bt-cc--prefs'); an.focus(); }
+		});
+
+		window.btConsent = { open: function () { show(true); }, get: read };
+
+		var existing = read();
+		if (existing) activate(existing);
+		else setTimeout(function () { show(false); }, 600);
+	})();
+</script>
+
 <script id="generate-a11y">
 	!function () { "use strict"; if ("querySelector" in document && "addEventListener" in window) { var e = document.body; e.addEventListener("pointerdown", (function () { e.classList.add("using-mouse") }), { passive: !0 }), e.addEventListener("keydown", (function () { e.classList.remove("using-mouse") }), { passive: !0 }) } }();
 </script>

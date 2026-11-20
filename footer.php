@@ -114,21 +114,21 @@
 <style id="bt-cookie-consent-css">
 	#bt-cc{position:fixed;left:16px;right:16px;bottom:16px;z-index:99999;max-width:560px;margin-left:auto;margin-right:auto;
 		background:#1D0F20;color:#e2e8f0;border:1px solid rgba(255,255,255,.1);border-radius:16px;
-		box-shadow:0 20px 50px rgba(0,0,0,.35);padding:22px;font-family:inherit;font-size:14px;line-height:1.55;
+		box-shadow:0 20px 50px rgba(0,0,0,.35);padding:22px;max-height:calc(100vh - 32px);overflow-y:auto;overscroll-behavior:contain;font-family:inherit;font-size:14px;line-height:1.55;
 		transform:translateY(20px);opacity:0;visibility:hidden;transition:opacity .3s ease,transform .3s ease,visibility .3s}
 	#bt-cc.bt-cc--show{transform:translateY(0);opacity:1;visibility:visible}
 	#bt-cc h2{margin:0 0 6px;font-size:16px;font-weight:700;color:#fff}
 	#bt-cc p{margin:0 0 16px;color:#cbd5e1}
 	#bt-cc a{color:#38bdf8;text-decoration:underline}
 	#bt-cc .bt-cc-actions{display:flex;flex-wrap:wrap;gap:10px}
-	#bt-cc button.bt-cc-btn{flex:1 1 auto;min-width:120px;padding:10px 16px;border-radius:999px;font-weight:600;font-size:14px;
+	#bt-cc .bt-cc-btn{flex:1 1 auto;min-width:120px;padding:10px 16px;border-radius:999px;font-weight:600;font-size:14px;
 		cursor:pointer;border:1px solid transparent;transition:background .2s,border-color .2s,color .2s}
-	#bt-cc .bt-cc-primary{background:#0ea5e9;color:#fff}
-	#bt-cc .bt-cc-primary:hover{background:#0284c7}
-	#bt-cc .bt-cc-secondary{background:transparent;color:#fff;border-color:rgba(255,255,255,.25)}
-	#bt-cc .bt-cc-secondary:hover{border-color:#fff}
-	#bt-cc .bt-cc-link{background:transparent;color:#cbd5e1;text-decoration:underline;flex:0 0 auto;min-width:0;padding:10px 4px}
-	#bt-cc .bt-cc-link:hover{color:#fff}
+	#bt-cc .bt-cc-btn.bt-cc-primary{background:#0ea5e9;color:#fff}
+	#bt-cc .bt-cc-btn.bt-cc-primary:hover{background:#0284c7}
+	#bt-cc .bt-cc-btn.bt-cc-secondary{background:transparent;color:#fff;border-color:rgba(255,255,255,.45)}
+	#bt-cc .bt-cc-btn.bt-cc-secondary:hover{border-color:#fff}
+	#bt-cc .bt-cc-btn.bt-cc-link{background:transparent;color:#cbd5e1;text-decoration:underline;flex:0 0 auto;min-width:0;padding:10px 4px}
+	#bt-cc .bt-cc-btn.bt-cc-link:hover{color:#fff}
 	#bt-cc button:focus-visible,#bt-cc input:focus-visible{outline:2px solid #38bdf8;outline-offset:2px}
 	#bt-cc .bt-cc-prefs{display:none;margin:0 0 16px;border-top:1px solid rgba(255,255,255,.1);padding-top:12px}
 	#bt-cc.bt-cc--prefs .bt-cc-prefs{display:block}
@@ -145,7 +145,7 @@
 	#bt-cc .bt-cc-switch input:checked+i::after{transform:translateX(18px)}
 	#bt-cc .bt-cc-switch input:disabled{cursor:not-allowed}
 	#bt-cc .bt-cc-switch input:disabled+i{opacity:.6}
-	@media (max-width:480px){#bt-cc{left:12px;right:12px;bottom:12px;padding:18px}#bt-cc button.bt-cc-btn{flex:1 1 100%}}
+	@media (max-width:480px){#bt-cc{left:12px;right:12px;bottom:12px;padding:18px}#bt-cc .bt-cc-btn{flex:1 1 100%}#bt-cc{max-height:calc(100vh - 24px)}}
 	@media (prefers-reduced-motion:reduce){#bt-cc{transition:none}}
 </style>
 <div id="bt-cc" role="dialog" aria-live="polite" aria-labelledby="bt-cc-title" aria-describedby="bt-cc-desc" hidden>
@@ -174,13 +174,14 @@
 		<button type="button" class="bt-cc-btn bt-cc-link bt-cc-customize" data-cc="customize">Customize</button>
 	</div>
 </div>
+<!--
+	Cookie consent usage. To load a tracking script only after consent, add it as:
+	  <script type="text/plain" data-cookie-category="analytics" src="..."></script>
+	(category: "analytics" or "marketing"). It is activated once the visitor allows that category.
+	Listen for changes with: document.addEventListener('bt:consent', e => console.log(e.detail));
+	NOTE: never write a closing script tag inside the script below - it ends the script early.
+-->
 <script id="bt-cookie-consent-js">
-	/*
-	 * Cookie consent. To load a tracking script only after consent, add it as:
-	 *   <script type="text/plain" data-cookie-category="analytics" src="..."></script>
-	 * (category: "analytics" or "marketing"). It will be activated once the visitor allows that category.
-	 * Listen for changes with: document.addEventListener('bt:consent', e => console.log(e.detail));
-	 */
 	(function () {
 		var KEY = 'bt_cookie_consent', VERSION = 1, MAX_AGE = 60 * 60 * 24 * 180; // 180 days
 		var el = document.getElementById('bt-cc');
